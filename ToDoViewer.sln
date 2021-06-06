@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoViewer", "ToDoViewer.csproj", "{C5E79FC1-4AF6-4071-A3A7-0EA161296291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E79FC1-4AF6-4071-A3A7-0EA161296291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E79FC1-4AF6-4071-A3A7-0EA161296291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E79FC1-4AF6-4071-A3A7-0EA161296291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E79FC1-4AF6-4071-A3A7-0EA161296291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {538B4293-BB33-4E99-9F66-E5BE653F5821}
+	EndGlobalSection
+EndGlobal
